@@ -5,6 +5,6 @@
   * [ ] simple description of term insurance model
   * [ ] what does expstudies package look like in Python?
    * [ ] ship many enhancements to the julia package for experience studies
- * On ga tech side of things
+* On ga tech side of things
    * [ ] finish degree
    * [ ] take notes for any class that I can
